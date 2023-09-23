@@ -38,7 +38,7 @@ if N == 1:
 elif N == 2:
     R = int(input("Enter the Radius :"))
     sum = 3.14 * R * R
-    print("The area is : ", sum)2020
+    print("The area is : ", sum)
 elif N == 3:
     B = int(input("Enter the Base :"))
     H = int(input("Enter the Height :"))
