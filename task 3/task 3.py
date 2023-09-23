@@ -46,4 +46,4 @@ elif N == 3:
     print("The area is : ", sum)
 
 else:
-    print(" THANKS YOU ")
+    print("THANKS YOU")
